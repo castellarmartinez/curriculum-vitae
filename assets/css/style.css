@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  padding: 1rem 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+
+header ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  text-transform: uppercase;
+}
+
+header a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+header a:visited {
+  color: black;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto 5rem;
+  text-align: justify;
+}
+
+section {
+  scroll-margin-top: 60px;
+}
+
+hr {
+  margin-top: 1rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+#contact {
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+#contact a:visited {
+  color: blue;
+}
+
+.section-title {
+  margin-bottom: 1rem;
+}
+
+.skills-group {
+  font-weight: bold;
+}
+
+.companies {
+  font-weight: bold;
+}
+
+.job-titles {
+  font-style: italic;
+}
+
+.job-descriptions,
+.courses-list,
+.university {
+  margin-bottom: 1rem;
+}
+
+.major,
+.courses,
+.languages {
+  font-weight: bold;
+}
+
+.university {
+  font-style: italic;
+}
