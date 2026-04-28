@@ -1,4 +1,4 @@
-# [Click here to seee it](https://castellarmartinez.github.io/curriculum-vitae/)
+# [Click here to see it](https://castellarmartinez.github.io/curriculum-vitae/)
 
 ## Forks to projects:
 
